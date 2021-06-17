@@ -1,0 +1,34 @@
+h1 {
+    width: 65px;
+    color: orangered;
+    font-family: sans-serif;
+    text-decoration: underline;
+  }
+
+  p {
+    font-weight: 600;
+    font-size: 3em;
+    font-style: italic;
+    text-align: center;
+  }
+
+  body {
+    font-size: 16px;
+  }
+
+  .style_for_pul {
+    background-color: orchid;
+    line-height: 40px;
+  }
+
+  #amarelo {
+    background-color: yellow;
+  }
+
+  #vermelho {
+    background-color: red;
+  }
+
+  #marrom {
+    background-color: brown;
+  }
