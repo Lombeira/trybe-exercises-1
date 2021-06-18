@@ -25,3 +25,42 @@
 .border {
   border: 5px solid black;
 }
+
+.super-mario {
+  width: 100px;
+  left: 25px;
+  position: absolute;
+  z-index: 1;
+}
+
+.goomba {
+  width: 75px;
+  top: 250px;
+  left: 125px;
+  position: absolute;
+  z-index: 2;
+}
+
+.baloon {
+  width: 165px;
+  top: 80px;
+  left: 265px;
+  position: absolute;
+  z-index: 4;
+}
+
+.speach {
+  top: 98px;
+  left: 270px;
+  font-size: 15px;
+  position: absolute;
+  z-index: 5;
+}
+
+.bowser {
+  width: 220px;
+  top: 100px;
+  left: 400px;
+  position: absolute;
+  z-index: 3;
+}
