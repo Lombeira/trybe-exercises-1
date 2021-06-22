@@ -1,0 +1,38 @@
+* {
+  font-family: 'Courier New', Courier, monospace;
+  margin: 0%; /*Pode ser 0 puro, por enquanto.*/
+  padding: 0%;
+  border: none;
+  box-sizing: border-box;
+  text-decoration: none;
+
+}
+
+section {
+  border: 1px solid black;
+}
+
+aside {
+  border: 1px solid red;
+}
+
+header {
+  border: 1px solid green;
+  display: inline;
+}
+
+main {
+  border: 1px solid blue;
+}
+
+footer {
+  border: 1px solid yellow;
+}
+
+article {
+  border: 1px solid palevioletred;
+}
+
+h1 {
+
+}
