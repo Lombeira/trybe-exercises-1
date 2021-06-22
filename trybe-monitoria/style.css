@@ -1,11 +1,10 @@
 * {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
   margin: 0%; /*Pode ser 0 puro, por enquanto.*/
   padding: 0%;
   border: none;
   box-sizing: border-box;
   text-decoration: none;
-
 }
 
 section {
@@ -18,27 +17,32 @@ aside {
 
 header {
   border: 1px solid green;
-}
-
-.estiloHeader h1, .estiloHeader nav {
-  display: inline;
+  vertical-align: top;
 }
 
 .navHeader {
   display: inline-block;
-  position: relative;
+  width: 40%;
+  vertical-align: middle;
 }
 
-.estiloLiHeader {
-  display: inline;
-}
-
-.estiloImagemLogo {
-  width: 50px;
+.logo {
+  width: 10%;
+  display: inline-block;
+  vertical-align: middle;
 }
 
 h1 {
+  display: inline-block;
   text-align: center;
+  width: 45%;
+  vertical-align: middle;
+}
+
+.nav-item {
+  display: inline;
+  float: right;
+  margin: auto;
 }
 
 main {
