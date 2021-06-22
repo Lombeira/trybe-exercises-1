@@ -25,7 +25,12 @@ header {
 }
 
 .navHeader {
-  float: right;
+  display: inline-block;
+  position: relative;
+}
+
+.estiloLiHeader {
+  display: inline;
 }
 
 .estiloImagemLogo {
@@ -33,7 +38,7 @@ header {
 }
 
 h1 {
-
+  text-align: center;
 }
 
 main {
