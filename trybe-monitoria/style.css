@@ -18,7 +18,22 @@ aside {
 
 header {
   border: 1px solid green;
+}
+
+.estiloHeader h1, .estiloHeader nav {
   display: inline;
+}
+
+.navHeader {
+  float: right;
+}
+
+.estiloImagemLogo {
+  width: 50px;
+}
+
+h1 {
+
 }
 
 main {
@@ -31,8 +46,4 @@ footer {
 
 article {
   border: 1px solid palevioletred;
-}
-
-h1 {
-
 }
